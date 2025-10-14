@@ -1,0 +1,5 @@
+name: upload website.
+
+on:
+  push:
+    branches
