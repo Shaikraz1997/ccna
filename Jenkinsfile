@@ -6,7 +6,7 @@ pipeline {
                 git(
                     url: 'https://github.com/Shaikraz1997/ccna.git',
                     branch: 'master',
-                    credentialsId: '9b9993c5-0a92-4279-a6a2-a85efb9dcb7d'
+                    credentialsId: '614c678b-d999-4ace-a8a8-1955f4554905'
                 )
             }
         }
